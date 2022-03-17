@@ -2,4 +2,4 @@
 
 - ...
 
-Fixes #
+Closes #
